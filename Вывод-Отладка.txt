@@ -1,0 +1,14 @@
+﻿"lab 5-6.exe" (Win32). Загружено "C:\Users\user\Desktop\ВШЭ\япы\lab 5-6\x64\Debug\lab 5-6.exe". Символы загружены.
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". Невозможно найти или открыть PDB-файл.
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". Невозможно найти или открыть PDB-файл.
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". Невозможно найти или открыть PDB-файл.
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". Невозможно найти или открыть PDB-файл.
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". Невозможно найти или открыть PDB-файл.
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". Невозможно найти или открыть PDB-файл.
+Поток 0x1540 завершился с кодом 0 (0x0).
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". Невозможно найти или открыть PDB-файл.
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". Невозможно найти или открыть PDB-файл.
+"lab 5-6.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". Невозможно найти или открыть PDB-файл.
+Поток 0x14c0 завершился с кодом 0 (0x0).
+Поток 0x2180 завершился с кодом 0 (0x0).
+Программа "[12112] lab 5-6.exe" завершилась с кодом 0 (0x0).
